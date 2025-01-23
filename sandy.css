@@ -1,5 +1,6 @@
 body {
-    background-color: rgb(227, 203, 218);
+    background-image: url("background.webp");
+    background-repeat: no-repeat;
 }
 
 p {
