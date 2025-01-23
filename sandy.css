@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(227, 203, 218);
+}
+
+p {
+    font-family: "Times New Roman", cursive;
+    font-size: small;
+}
+
+#myp {
+    color: lightcoral;
+    font-weight: bold;
+    font-family: "Times New Roman";
+}
+
+#mydiv {
+    color: lightcoral;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
